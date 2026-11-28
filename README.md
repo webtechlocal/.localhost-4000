@@ -9,7 +9,7 @@
 # <<Welcome to your organization setup respository>> 
 <<This code repository or repo is designed to create the best GitHub has to offer with the least amount of noise>> 
 
- <<The repo link an index.html file so it can share limit a web blank page, two GitHub Actions workflows, and a CSS stylesheet type>> 
+ <<The repo link an index file so it can share limit a web blank page, two github actions workflows, and a css stylesheet type>> 
 # 
 # 111 
 # 
